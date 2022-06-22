@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Temp files
+app/latest_silero_models.yml
+*.wav
+app/ready/*.*
+app/tmp/*.*
